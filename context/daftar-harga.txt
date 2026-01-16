@@ -1,0 +1,3 @@
+Nama Barang, kategori, harga
+panelbot, standar, 5000
+panelbot, premium, 10000

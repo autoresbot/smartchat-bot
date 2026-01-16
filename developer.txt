@@ -8,7 +8,7 @@ Script ini **TIDAK BOLEH DIPERJUALBELIKAN** dalam bentuk apa pun!
 ║ 📦 Version    : 1.0.0                       ║
 ║ 👨‍💻 Developer  : Azhari Creative             ║
 ║ 🌐 Website    : https://autoresbot.com       ║
-║ 💻 GitHub  : github.com/autoresbot/resbot-md ║
+║ 💻 GitHub  : github.com/autoresbot/smartchat-bot ║
 ╚══════════════════════════════════════════════╝
 
 📌 Mulai 11 April 2025,

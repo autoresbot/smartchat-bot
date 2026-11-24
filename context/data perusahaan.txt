@@ -1,2 +1,19 @@
-nama perusahaan : PT AUTORESBOT DIGITAL
-produk yang di jual : panel bot
+Nama: Autoresbot (autoresbot.com) - platform server panel & REST API
+Pengelola: AZHARI (Usaha Perseorangan), Kalimantan Barat, Indonesia
+
+Layanan:
+- Server Panel Pterodactyl: hosting bot WA/aplikasi 24 jam tanpa VPS, kelola lewat web (start, stop, file, log)
+- REST API: fitur untuk bot/website/aplikasi, respons JSON. Dokumentasi: api.autoresbot.com
+- Playground AI: chat GPT/Claude, buat/edit gambar, HD & hapus background, dll. Pakai Credit (akun baru dapat 50 Credit gratis, berlaku 3 hari)
+- Domain: .my.id, .web.id, .biz.id, .id, .com (harga dilihat di dashboard)
+- Top up: game, pulsa, paket data, e-money, token PLN, voucher (autoresbot.com/toko)
+- Script bot WA gratis
+
+Pembayaran: QRIS, Virtual Account (BRI, BCA), Alfamart/Indomaret, Saldo Akun. Panel aktif otomatis setelah bayar.
+
+Kontak:
+- WhatsApp: 0821-5436-5238 (wa.me/6282154365238)
+- Telegram: @autoresbot_com
+- CS AI: t.me/csautores_bot
+- Status server: status.autoresbot.com
+- Lapor masalah: autoresbot.com/report-issue

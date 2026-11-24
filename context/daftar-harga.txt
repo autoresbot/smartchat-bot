@@ -1,3 +1,19 @@
-Nama Barang, kategori, harga
-panelbot, standar, 5000
-panelbot, premium, 10000
+HARGA SERVER PANEL (per 30 hari)
+- Mini: Rp10.000 | RAM 512 MB, CPU 60%, Disk 2 GB | tanpa Public URL & custom domain
+- Lite: Rp20.000 | RAM 1 GB, CPU 80%, Disk 3 GB | tanpa Public URL & custom domain
+- Standar (terlaris): Rp30.000 | RAM 2 GB, CPU 120%, Disk 5 GB | Public URL, 2 custom domain
+- Pro: Rp55.000 | RAM 4 GB, CPU 200%, Disk 10 GB | Public URL, 5 custom domain
+
+Ketentuan panel:
+- Durasi bisa dipilih 10 hari sampai 1 tahun (dihitung pro-rata)
+- Trial gratis 1 hari (spesifikasi Standar), sekali per akun
+- Upgrade kapan saja, cukup bayar selisih sisa masa aktif
+- Tidak diperpanjang: panel ditangguhkan, lalu dihapus permanen 7 hari kemudian
+
+TOP UP (harga mulai dari, lebih hemat Rp1.000 jika login)
+- Pulsa mulai Rp6.190, paket data mulai Rp7.100
+- Game: Mobile Legends mulai Rp2.730, Free Fire mulai Rp2.860
+- E-money: DANA mulai Rp22.200, OVO/GoPay/ShopeePay mulai sekitar Rp53.000
+- Token PLN mulai Rp23.500
+- Cut off harian 23.30-00.30 WIB
+Harga lengkap: autoresbot.com/toko
